@@ -1,0 +1,12 @@
+{
+	"require" : {
+		"php": ">=5.3.3.3",
+		"silex/silex": "~1.0",
+		"symfony/translation": "~2.3",
+		"symfony/twig-bridge": "~2.3",
+		"hybridauth/hybridauth": "dev-master"
+	},
+	"autoload" : {
+		"psr-0" : {"" : "src/"}
+	}
+}
